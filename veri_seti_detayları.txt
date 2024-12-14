@@ -1,0 +1,23 @@
+Make: Aracın markası (ör. Ford, Toyota, BMW).
+
+Model: Aracın modeli (ör. Corolla, Mustang, Civic).
+
+Vehicle Class: Aracın sınıfı, genelde boyut veya tür bazında kategorize edilir (ör. Sedan, SUV, Hatchback).
+
+Engine Size (L): Motorun hacmi litre (L) cinsinden (ör. 2.0L, 3.5L). Motor hacmi, silindirlerin toplam hacmini ifade eder.
+
+Cylinders: Motordaki silindir sayısı (ör. 4, 6, 8). Silindir sayısı, motorun performansı ve yakıt tüketimi üzerinde etkili olabilir.
+
+Transmission: Şanzıman türü, aracın vites sistemini belirtir (ör. Automatic, Manual, CVT).
+
+Fuel Type: Kullanılan yakıt türü (ör. Gasoline (benzin), Diesel, Electric, Hybrid).
+
+Fuel Consumption City (L/100 km): Şehir içinde yakıt tüketimi (100 kilometrede litre olarak).
+
+Fuel Consumption Hwy (L/100 km): Şehirlerarası (otoyol) sürüşte yakıt tüketimi (100 kilometrede litre olarak).
+
+Fuel Consumption Comb (L/100 km): Karma sürüşte (şehir ve otoyol karışık) ortalama yakıt tüketimi (100 kilometrede litre olarak).
+
+Fuel Consumption Comb (mpg): Karma yakıt tüketiminin "mile per gallon" (mpg) birimiyle ifadesi. MPG, özellikle ABD'de kullanılan bir yakıt verimliliği birimidir.
+
+CO2 Emissions (g/km): Araçtan kilometre başına salınan karbon dioksit (CO₂) miktarı, gram cinsinden. Çevre dostu araçlar için önemli bir ölçüttür.
